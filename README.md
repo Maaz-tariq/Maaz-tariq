@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="www.linkedin.com/in/maaz-tariq124"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:maazt254.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="mailto:maazt254@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
   <a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white"></a>
 </p>
 
@@ -54,10 +54,10 @@
 
 
 **[FastPark](https://github.com/Maaz-tariq/REPO)** — Automated parking management system using OCR for license plate recognition, real-time billing & an admin dashboard. (React, Supabase).
-`React` `Node.js` `MongoDB` — [Live Demo](https://fastpark-production.up.railway.app/)
+`React` `Node.js` `Supabase` — [Live Demo](https://fastpark-production.up.railway.app/)
 
 **[Craving](https://github.com/Maaz-tariq/REPO)** — Full-stack MERN app for browsing food items by category — MongoDB backend, Express/Node API, React frontend..
-`Flask` `SQL` — [Live Demo](https://link.com)
+`React` `Node` `Express` `MongoDB` — [Live Demo](https://link.com)
 
 ---
 
