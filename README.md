@@ -53,10 +53,10 @@
 ### 📌 Featured Projects
 
 
-**[FastPark](https://github.com/Maaz-tariq/REPO)** — One line on the real problem it solves.
+**[FastPark](https://github.com/Maaz-tariq/REPO)** — Automated parking management system using OCR for license plate recognition, real-time billing & an admin dashboard. (React, Supabase).
 `React` `Node.js` `MongoDB` — [Live Demo](https://fastpark-production.up.railway.app/)
 
-**[Craving](https://github.com/Maaz-tariq/REPO)** — One line on the real problem it solves.
+**[Craving](https://github.com/Maaz-tariq/REPO)** — Full-stack MERN app for browsing food items by category — MongoDB backend, Express/Node API, React frontend..
 `Flask` `SQL` — [Live Demo](https://link.com)
 
 ---
