@@ -4,7 +4,6 @@
 <p align="center">
   Building real-world web applications with React, Node.js, Flask & MongoDB.
   <br>
-  Open to internship / entry-level opportunities.
 </p>
 
 <p align="center">
@@ -17,8 +16,8 @@
 
 ### 🚀 About Me
 - 🎓 Software Engineering student
-- 💻 Experienced with **React, Node.js, Flask, MongoDB, SQL**
-- 🌱 Currently learning: **Golang, REST API, System Design, React, Backend Design Architecture**
+- 💻 Experienced with **React, Node.js, Flask, MongoDB**
+- 🌱 Currently learning: **Golang, REST API, System Design, React, Backend**
 - 🎯 Goal: Land an internship/junior role where I can build production-grade software
 
 ---
@@ -57,7 +56,7 @@
 `React` `Node.js` `Supabase` — [Live Demo](https://fastpark-production.up.railway.app/)
 
 **[Craving](https://github.com/Maaz-tariq/REPO)** — Full-stack MERN app for browsing food items by category — MongoDB backend, Express/Node API, React frontend..
-`React` `Node` `Express` `MongoDB` — [Live Demo](https://link.com)
+`React` `Node` `Express` `MongoDB` — [Live Demo]
 
 ---
 
@@ -75,4 +74,4 @@
 ---
 
 ### 📫 Reach Me
-[LinkedIn](www.linkedin.com/in/maaz-tariq124) • [Email](mailto:maazt254@gmail.com) • [Portfolio](https://YOUR-PORTFOLIO.com)
+[LinkedIn](www.linkedin.com/in/maaz-tariq124) • [Email](mailto:maazt254@gmail.com) •
