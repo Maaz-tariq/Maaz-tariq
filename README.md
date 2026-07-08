@@ -60,18 +60,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maaz-tariq&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maaz-tariq&theme=dark&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maaz-tariq&layout=compact&theme=dark&hide_border=true" width="50%" />
-</p>
-
----
 
 ### 📫 Reach Me
 [LinkedIn](www.linkedin.com/in/maaz-tariq124) • [Email](mailto:maazt254@gmail.com) •
